@@ -1,0 +1,48 @@
+{
+	"storyName": "Pixel Monika",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"High School Conflict",
+			"monika",
+			[
+				255,
+				80,
+				180
+			]
+		],
+		[
+			"Bara No Yume",
+			"monika",
+			[
+				255,
+				80,
+				180
+			]
+		],
+		[
+			"Your Demise",
+			"monika",
+			[
+				255,
+				80,
+				180
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "monika"
+}

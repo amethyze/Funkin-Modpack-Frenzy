@@ -1,0 +1,57 @@
+{
+	"storyName": "matt wiik 3",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"fisticuffs",
+			"mattbox",
+			[
+				255,
+				153,
+				35
+			]
+		],
+		[
+			"wind up",
+			"mattbox",
+			[
+				255,
+				153,
+				35
+			]
+		],
+		[
+			"deathmatch",
+			"mattbox",
+			[
+				255,
+				153,
+				35
+			]
+		],
+		[
+			"king hit",
+			"mattbox",
+			[
+				255,
+				153,
+				35
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Matt mad"
+}

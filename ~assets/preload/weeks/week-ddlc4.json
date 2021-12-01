@@ -1,0 +1,39 @@
+{
+	"storyName": "Yuri",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Deep Breaths",
+			"yuri",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Obsession",
+			"yuri-crazy",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "Yuri"
+}

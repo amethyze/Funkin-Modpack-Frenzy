@@ -1,0 +1,30 @@
+{
+	"storyName": "Hecker",
+	"hideFreeplay": false,
+	"weekBackground": "hecker",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Hecker",
+			"hecker",
+			[
+				56,
+				57,
+				62
+			]
+		]
+	],
+	"weekName": "hecker"
+}

@@ -1,0 +1,43 @@
+{
+	"storyName": "B3 Week 3",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week2",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Pico B3",
+			"picob3",
+			[
+				148,
+				22,
+				83
+			]
+		],
+		[
+			"Philly B3",
+			"picob3",
+			[
+				148,
+				22,
+				83
+			]
+		],
+		[
+			"Blammed B3",
+			"picob3",
+			[
+				148,
+				22,
+				83
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "B3 Week 3"
+}

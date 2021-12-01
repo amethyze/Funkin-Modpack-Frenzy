@@ -1,0 +1,48 @@
+{
+	"storyName": "Old Vs Dave and Bambi",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Old Insanity",
+			"dave-old",
+			[
+				40,
+				40,
+				200
+			]
+		],
+		[
+			"Old Corn Theft",
+			"bambi-new",
+			[
+				40,
+				140,
+				20
+			]
+		],
+		[
+			"Old Maze",
+			"bambi-new",
+			[
+				40,
+				140,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "vs Dave and Bambi old"
+}

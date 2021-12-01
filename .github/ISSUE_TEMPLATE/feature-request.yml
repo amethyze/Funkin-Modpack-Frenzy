@@ -1,0 +1,12 @@
+name: Mod Request
+description: Submit any mods you would like to see added. 
+labels: [addition]
+body:
+- type: input
+  id: request
+  attributes:
+    label: Mod Request
+    description: "What mod(s) do you want to see added to the Modpack?"
+    placeholder: "Vs Nonsense, Starlight Mayhem, etc..."
+  validations:
+    required: true

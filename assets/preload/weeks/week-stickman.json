@@ -1,0 +1,75 @@
+{
+	"storyName": "Stickman",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Sticking",
+			"stickman",
+			[
+				0,
+				0,
+				80
+			]
+		],
+		[
+			"Fight",
+			"stickman",
+			[
+				0,
+				0,
+				80
+			]
+		],
+		[
+			"Serious",
+			"stickman",
+			[
+				0,
+				0,
+				80
+			]
+		],
+		[
+			"Boombox",
+			"stickman",
+			[
+				0,
+				0,
+				80
+			]
+		],
+		[
+			"Wrath Soul",
+			"daisy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Atomixx",
+			"stickman",
+			[
+				0,
+				0,
+				80
+			]
+		]
+	],
+	"weekName": "Stickman"
+}

@@ -1,0 +1,57 @@
+{
+	"storyName": "Kapi",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Wocky",
+			"kapi",
+			[
+				118,
+				113,
+				158
+			]
+		],
+		[
+			"Beathoven",
+			"kapi",
+			[
+				118,
+				113,
+				158
+			]
+		],
+		[
+			"Hairball",
+			"kapi",
+			[
+				118,
+				113,
+				158
+			]
+		],
+		[
+			"Nyaw",
+			"kapi",
+			[
+				118,
+				113,
+				158
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "kapi"
+}

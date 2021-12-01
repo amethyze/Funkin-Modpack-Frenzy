@@ -1,0 +1,39 @@
+{
+	"storyName": "Sayori",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Rain Clouds",
+			"sayori",
+			[
+				75,
+				180,
+				200
+			]
+		],
+		[
+			"My Confession",
+			"sayori",
+			[
+				75,
+				180,
+				200
+			]
+		]
+	],
+	"weekName": "sayori"
+}

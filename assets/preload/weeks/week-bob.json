@@ -1,0 +1,48 @@
+{
+	"storyName": "bob",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Sunshine",
+			"bob",
+			[
+				150,
+				150,
+				150
+			]
+		],
+		[
+			"Withered",
+			"angrybob",
+			[
+				150,
+				150,
+				150
+			]
+		],
+		[
+			"Run",
+			"hellbob",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "bob"
+}

@@ -1,0 +1,43 @@
+{
+	"storyName": "PICO NEO",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week2",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Pico Neo",
+			"pico-neo",
+			[
+				148,
+				22,
+				83
+			]
+		],
+		[
+			"Philly Neo",
+			"pico-neo",
+			[
+				148,
+				22,
+				83
+			]
+		],
+		[
+			"Blammed Neo",
+			"pico-neo",
+			[
+				148,
+				22,
+				83
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 3 NEO"
+}

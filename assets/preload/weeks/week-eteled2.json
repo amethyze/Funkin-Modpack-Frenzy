@@ -1,0 +1,48 @@
+{
+	"storyName": "Eteled Secrets",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Plaything",
+			"austin",
+			[
+				155,
+				20,
+				20
+			]
+		],
+		[
+			"System Failure",
+			"eteled2",
+			[
+				95,
+				80,
+				140
+			]
+		],
+		[
+			"Bananeled",
+			"eteled1",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "eteled"
+}

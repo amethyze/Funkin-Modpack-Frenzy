@@ -1,0 +1,39 @@
+{
+	"songs": [
+		[
+			"Sporting",
+			"matt",
+			[
+				255,
+				153,
+				35
+			]
+		],
+		[
+			"Boxing Match",
+			"matt",
+			[
+				255,
+				153,
+				35
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Matt Is Angry",
+	"weekName": "Matt mad",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

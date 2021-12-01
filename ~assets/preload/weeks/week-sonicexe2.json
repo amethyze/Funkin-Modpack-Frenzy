@@ -1,0 +1,84 @@
+{
+	"songs": [
+		[
+			"Cycles",
+			"sonicLordX",
+			[
+				0,
+				0,
+				93
+			]
+		],
+		[
+			"Endless",
+			"sonicfun",
+			[
+				0,
+				0,
+				193
+			]
+		],
+		[
+			"Sonic Sunshine",
+			"TDoll",
+			[
+				206,
+				206,
+				0
+			]
+		],
+		[
+			"Faker",
+			"faker",
+			[
+				0,
+				0,
+				133
+			]
+		],
+		[
+			"Black Sun",
+			"exe",
+			[
+				0,
+				0,
+				53
+			]
+		],
+		[
+			"Milk",
+			"sunky",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"Too Fest",
+			"sanic",
+			[
+				0,
+				0,
+				93
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Sonic.Exe",
+	"weekName": "Sonic Exe",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

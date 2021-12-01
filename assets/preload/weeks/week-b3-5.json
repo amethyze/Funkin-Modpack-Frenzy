@@ -1,0 +1,43 @@
+{
+	"storyName": "B3 Week 5",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week4",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Cocoa B3",
+			"parentsb3-christmas",
+			[
+				160,
+				209,
+				255
+			]
+		],
+		[
+			"Eggnog B3",
+			"parentsb3-christmas",
+			[
+				160,
+				209,
+				255
+			]
+		],
+		[
+			"Winter Horrorland B3",
+			"monsterb3-christmas",
+			[
+				160,
+				209,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "B3 Week 5"
+}

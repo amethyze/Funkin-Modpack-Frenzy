@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Bopeebo Starcatcher",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Fresh Starcatcher",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Dadbattle Starcatcher",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Starcatcher Week 1",
+	"weekName": "week-star1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

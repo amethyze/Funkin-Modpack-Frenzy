@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Copy Cat",
+			"bob",
+			[
+				195,
+				195,
+				195
+			]
+		],
+		[
+			"Jump Out",
+			"bob",
+			[
+				195,
+				195,
+				195
+			]
+		],
+		[
+			"Ronald McDonald Slide",
+			"ron",
+			[
+				175,
+				175,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Bob and Bosip - Bob's Takeover",
+	"weekName": "bnb-4",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,75 @@
+{
+	"songs": [
+		[
+			"Popipo",
+			"miku",
+			[
+				66,
+				213,
+				253
+			]
+		],
+		[
+			"Aishite",
+			"miku",
+			[
+				66,
+				213,
+				253
+			]
+		],
+		[
+			"Siu",
+			"miku",
+			[
+				66,
+				213,
+				253
+			]
+		],
+		[
+			"Disappearance",
+			"miku",
+			[
+				66,
+				213,
+				253
+			]
+		],
+		[
+			"Chug",
+			"miku",
+			[
+				66,
+				213,
+				253
+			]
+		],
+		[
+			"INfinite",
+			"miku",
+			[
+				66,
+				213,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Miku the Singer",
+	"weekName": "miku",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

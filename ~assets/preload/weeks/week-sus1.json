@@ -1,0 +1,48 @@
+{
+	"storyName": "Vs Impostor",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Sussus Moogus",
+			"impostor",
+			[
+				255,
+				80,
+				80
+			]
+		],
+		[
+			"Sabotage",
+			"impostor",
+			[
+				255,
+				80,
+				80
+			]
+		],
+		[
+			"Meltdown",
+			"impostor",
+			[
+				255,
+				80,
+				80
+			]
+		]
+	],
+	"weekName": "Impostor"
+}

@@ -1,0 +1,43 @@
+{
+	"storyName": "Starcatcher Week 2",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Spookeez Starcatcher",
+			"spooky",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"South Starcatcher",
+			"spooky",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"Sugar Rush Starcatcher",
+			"spooky",
+			[
+				34,
+				51,
+				68
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week-star2"
+}

@@ -1,0 +1,48 @@
+{
+	"storyName": "Vs Impostor Week 3",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Sussy Bussy",
+			"tomongus",
+			[
+				255,
+				100,
+				100
+			]
+		],
+		[
+			"Rivals",
+			"tomongus",
+			[
+				255,
+				100,
+				100
+			]
+		],
+		[
+			"Chewmate",
+			"hamster",
+			[
+				180,
+				180,
+				0
+			]
+		]
+	],
+	"weekName": "Impostor Week 3"
+}
