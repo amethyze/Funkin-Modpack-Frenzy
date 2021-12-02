@@ -62,10 +62,11 @@
 2. Recolored ratings
 
 
-## Update v2.2.1
+## [Unreleased] Update v2.2.1
 
 ### Added Mods
-1.  Vs AGOTI
-2.  Vs Sky
-3.  Vs Hex
-4.  Smoke Em Out Struggle
+1. Vs AGOTI
+2. Vs Sky
+3. Vs Hex
+4. Smoke Em Out Struggle
+5. Funkin' with Mariah Carey
