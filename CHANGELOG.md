@@ -60,3 +60,12 @@
 ### Added Features
 1. Updated the engine
 2. Recolored ratings
+
+
+## Update v2.2.1
+
+### Added Mods
+1.  Vs AGOTI
+2.  Vs Sky
+3.  Vs Hex
+4.  Smoke Em Out Struggle
