@@ -1,0 +1,34 @@
+{
+	"songs": [
+		[
+			"chorus",
+			"aflac",
+			[
+				153,
+				70,
+				176
+			]
+		],
+		[
+			"pillars",
+			"aflac",
+			[
+				153,
+				70,
+				176
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "",
+	"storyName": "Rematch",
+	"weekBefore": "aflac",
+	"weekName": "rematch",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

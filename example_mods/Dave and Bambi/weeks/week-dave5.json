@@ -1,0 +1,84 @@
+{
+	"storyName": "Vs Dave and Bambi Secret Songs",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Supernovae",
+			"bambi-old",
+			[
+				40,
+				140,
+				20
+			]
+		],
+		[
+			"Glitch",
+			"bambi-old",
+			[
+				40,
+				140,
+				20
+			]
+		],
+		[
+			"Cheating",
+			"bambi-3d",
+			[
+				40,
+				200,
+				20
+			]
+		],
+		[
+			"Screwed",
+			"bambi-angey",
+			[
+				40,
+				140,
+				20
+			]
+		],
+		[
+			"Bonus Song",
+			"dave",
+			[
+				40,
+				140,
+				20
+			]
+		],
+		[
+			"Secret",
+			"bambi-new",
+			[
+				40,
+				140,
+				20
+			]
+		],
+		[
+			"Applecore",
+			"bambi",
+			[
+				40,
+				140,
+				20
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "vs Dave and Bambi old"
+}

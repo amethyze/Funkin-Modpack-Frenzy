@@ -1,0 +1,39 @@
+{
+	"storyName": "matt tko",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"tko",
+			"mattbox",
+			[
+				255,
+				153,
+				35
+			]
+		],
+		[
+			"king hit fefe",
+			"mattbox",
+			[
+				255,
+				153,
+				35
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "Matt TKO"
+}

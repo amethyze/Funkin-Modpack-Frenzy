@@ -1,0 +1,57 @@
+{
+	"storyName": "c0rrupt3d st3v3n & spin3l",
+	"hideFreeplay": false,
+	"weekBackground": "none",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Make THE change",
+			"steven",
+			[
+				140,
+				60,
+				100
+			]
+		],
+		[
+			"I'll be FINE",
+			"steven",
+			[
+				140,
+				60,
+				100
+			]
+		],
+		[
+			"always save the day",
+			"steven2",
+			[
+				140,
+				60,
+				100
+			]
+		],
+		[
+			"your last friend",
+			"spinel",
+			[
+				186,
+				53,
+				80
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "CorruptSteven"
+}

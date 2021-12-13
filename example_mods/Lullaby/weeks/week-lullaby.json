@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Safety Lullaby", "hypno", [165, 0, 77]],
+		["Left Unchecked", "hypno-two", [165, 0, 77]],
+		["Monochrome", "gold", [165, 0, 77]],
+		["Missingno", "missingno", [165, 0, 77]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "",
+
+	"storyName": "Lullaby",
+	"weekBefore": "tutorial",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

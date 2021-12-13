@@ -1,0 +1,48 @@
+{
+	"storyName": "bob's onslaught",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Ron",
+			"ron",
+			[
+				155,
+				85,
+				20
+			]
+		],
+		[
+			"Trouble",
+			"gloop-bob",
+			[
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"Onslaught",
+			"glitched-bob",
+			[
+				10,
+				10,
+				10
+			]
+		]
+	],
+	"weekName": "bob2"
+}

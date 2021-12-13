@@ -1,0 +1,57 @@
+{
+	"storyName": "The Doki Doki Literature Club Festival",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Crucify (Yuri Mix)",
+			"yuri",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Beathoven (Natsuki Mix)",
+			"natsuki",
+			[
+				235,
+				120,
+				200
+			]
+		],
+		[
+			"It's Complicated (Sayori Mix)",
+			"sayori",
+			[
+				75,
+				180,
+				200
+			]
+		],
+		[
+			"Glitcher (Monika Mix)",
+			"monika-real",
+			[
+				66,
+				233,
+				113
+			]
+		]
+	],
+	"weekName": "Festival"
+}

@@ -1,0 +1,67 @@
+!-Base Game-!
+Psych Engine - https://gamebanana.com/mods/309789
+Modifcations and Modpack Compilation by SteveeWasTaken
+
+!-Update v1.0-!
+Vs Stickman - https://gamebanana.com/mods/323749
+Vs Tricky - https://gamebanana.com/mods/44334
+FNF Online VS (Vs Accelerant Hank) - https://gamebanana.com/mods/286594
+Vs Accelerant Hank Reanimated - https://gamebanana.com/mods/328455
+Starlight Mayhem (Vs CJ And Ruby) - https://gamebanana.com/mods/287114
+Playable OK Friday - https://www.youtube.com/watch?v=su8E_Qy82xA
+Vs Arch - https://gamebanana.com/mods/319914
+Vs Kapi - https://gamebanana.com/mods/44683
+Literally every FNF mod ever (Vs Bob) - https://gamebanana.com/mods/285296
+Doki Doki Takeover - https://gamebanana.com/mods/47364
+Vs Hecker - https://gamebanana.com/mods/323848
+Vs Hecker Port - https://gamebanana.com/mods/327319
+Vs Nonsense - https://gamebanana.com/mods/292607
+Vs Among Us Imposter - https://gamebanana.com/mods/55652
+
+!-Update v1.1-!
+Vs Matt - https://gamebanana.com/mods/44511
+Vs Matt Fanmade Wiik 3 - https://gamebanana.com/mods/293670
+
+!-Update v1.2-!
+Vs Dave and Bambi - https://gamebanana.com/mods/43201
+Vs Eteled - https://gamebanana.com/mods/313084
+
+!-Update v2.1-!
+Friday Night Funkin' NEO - https://gamebanana.com/mods/44230
+Friday Night Funkin' B3 Remixes- https://gamebanana.com/mods/42734
+
+!-Update v2.1.1-!
+Friday Night Sandboxin' https://gamebanana.com/mods/294376
+Vs Bob and Bosip - https://gamebanana.com/mods/297087
+
+!-Update v2.2-!
+Friday Night Funkin' StarCatcher - https://gamebanana.com/mods/44335
+Sonic.exe Update 2.0 - https://gamebanana.com/mods/316022
+Vs Miku - https://gamebanana.com/mods/44307
+Vs Sunday - https://gamebanana.com/mods/300849
+Monika Is Infinite - https://youtu.be/fchCO1mJtbE
+Sunday Icons Redrawn - https://gamebanana.com/mods/302327
+
+!-Update v2.2.1-!
+Funkin' with Mariah Carey - https://gamebanana.com/mods/340200
+Vs Sky - [DELETED]
+Vs AGOTI - https://gamebanana.com/mods/284934
+Smoke Em Out Struggle - https://gamebanana.com/mods/166531
+Dave and Bambi AppleCore - https://www.youtube.com/watch?v=m9olo6VcIQY&t=0s
+Vs Hex - https://gamebanana.com/mods/44225
+Vs Corrupted Steven - https://gamebanana.com/mods/336719
+
+!-Update v2.3-!
+Vs Aflac - https://gamebanana.com/wips/54482
+Animation vs FNF - https://gamebanana.com/mods/340817
+
+!-Assets-!
+Friday Night Funkin' NEO [mods/images/notes/NEO] - https://gamebanana.com/mods/44230
+Cooler Notes [mods/images/notes/cooler-notes] - https://gamebanana.com/mods/30805
+Older Version Of ProjectFNF [mods/images/notes/old-pfnf] - https://github.com/aflacc/ProjectFNF
+Cyber Sensation [mods/images/notes/Cyber-Sensation] - https://gamebanana.com/mods/319101
+Whitty NEO [mods/images/notes/Whitty-Neo]) - https://gamebanana.com/mods/315395
+Bob and Bosip [mods/images/notes/Bob-Bosip/] - https://gamebanana.com/mods/297087
+Vs Sunday [mods/images/notes/sunday/] - https://gamebanana.com/mods/300849
+Entity [mods/images/notes/entity] - https://gamebanana.com/mods/284934
+Notes & Events - https://gamebanana.com/tools/7714

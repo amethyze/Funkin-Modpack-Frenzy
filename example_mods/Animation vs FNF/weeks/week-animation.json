@@ -1,0 +1,61 @@
+{
+	"storyName": "Animation Vs FNF",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "weekwindows",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Adobe",
+			"tco1",
+			[
+				60,
+				60,
+				60
+			]
+		],
+		[
+			"Victim",
+			"tco",
+			[
+				60,
+				60,
+				60
+			]
+		],
+		[
+			"End Process",
+			"tdl",
+			[
+				180,
+				40,
+				0
+			]
+		],
+		[
+			"ALan",
+			"alan",
+			[
+				195,
+				195,
+				195
+			]
+		],
+		[
+			"Diva",
+			"tco",
+			[
+				60,
+				60,
+				60
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week Windows"
+}

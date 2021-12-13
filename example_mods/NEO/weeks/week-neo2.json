@@ -1,0 +1,43 @@
+{
+	"storyName": "Spooky Neo",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Spookeez Neo",
+			"spooky-neo",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"South Neo",
+			"spooky-neo",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"Illusion Neo",
+			"monster-neo",
+			[
+				34,
+				51,
+				68
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 2 NEO"
+}

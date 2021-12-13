@@ -1,0 +1,43 @@
+{
+	"storyName": "B3 Week 6",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week5",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Senpai B3",
+			"senpaib3",
+			[
+				255,
+				120,
+				191
+			]
+		],
+		[
+			"Roses B3",
+			"senpaib3",
+			[
+				255,
+				120,
+				191
+			]
+		],
+		[
+			"Thorns B3",
+			"spiritb3",
+			[
+				255,
+				120,
+				191
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "B3 Week 6"
+}

@@ -1,0 +1,57 @@
+{
+	"songs": [
+		[
+			"Headache",
+			"garcello",
+			[
+				54,
+				255,
+				121
+			]
+		],
+		[
+			"Nerves",
+			"garcellotired",
+			[
+				54,
+				255,
+				121
+			]
+		],
+		[
+			"Release",
+			"garcellodead",
+			[
+				117,
+				255,
+				163
+			]
+		],
+		[
+			"Fading",
+			"garcelloghosty",
+			[
+				117,
+				255,
+				163
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Smoke Em Out Struggle",
+	"weekName": "bnb-3",
+	"freeplayColor": [
+		54,
+		255,
+		121
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

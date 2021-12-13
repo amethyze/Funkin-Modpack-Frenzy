@@ -1,0 +1,43 @@
+{
+	"songs": [
+		[
+			"loaf",
+			"aflac",
+			[
+				66,
+				135,
+				245
+			]
+		],
+		[
+			"blazeborn",
+			"aflac2",
+			[
+				66,
+				135,
+				245
+			]
+		],
+		[
+			"the-end",
+			"aflac3",
+			[
+				66,
+				135,
+				245
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "",
+	"storyName": "Block Game Brawl",
+	"weekBefore": "tutorial",
+	"weekName": "aflac",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
