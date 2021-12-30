@@ -1,0 +1,48 @@
+{
+	"storyName": "Starlight Mayhem - Old Remixes",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Inverted Ascension Old",
+			"cj",
+			[
+				80,
+				80,
+				220
+			]
+		],
+		[
+			"Echoes Old",
+			"ruby",
+			[
+				146,
+				0,
+				253
+			]
+		],
+		[
+			"Artificial Lust Old",
+			"star-duet",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "starlight"
+}

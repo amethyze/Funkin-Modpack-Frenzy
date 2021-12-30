@@ -1,0 +1,30 @@
+{
+	"storyName": "Splitathon",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Splitathon",
+			"the-duo",
+			[
+				40,
+				140,
+				120
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "vs Dave and Bambi"
+}

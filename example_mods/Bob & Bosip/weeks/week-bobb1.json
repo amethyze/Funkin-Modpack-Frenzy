@@ -1,0 +1,49 @@
+{
+	"storyName": "Bob and Bosip - Original Week",
+	"difficulties": "Easy, Normal, Hard, EX",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Jump In",
+			"bobb",
+			[
+				215,
+				215,
+				0
+			]
+		],
+		[
+			"Swing",
+			"bosip",
+			[
+				240,
+				240,
+				35
+			]
+		],
+		[
+			"Split",
+			"amor",
+			[
+				100,
+				100,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "bnb-1"
+}

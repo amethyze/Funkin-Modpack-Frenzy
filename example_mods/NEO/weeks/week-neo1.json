@@ -1,0 +1,48 @@
+{
+	"storyName": "Neo Rockstar",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Bopeebo Neo",
+			"dad-neo",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Fresh Neo",
+			"dad-neo",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Dadbattle Neo",
+			"dad-neo",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1 NEO"
+}

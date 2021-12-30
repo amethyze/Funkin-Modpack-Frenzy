@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Wife Forever",
+			"sky",
+			[
+				139,
+				0,
+				199
+			]
+		],
+		[
+			"Sky",
+			"sky",
+			[
+				139,
+				0,
+				199
+			]
+		],
+		[
+			"Manifest",
+			"sky-mad",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Vs Sky",
+	"weekName": "Vs Sky",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

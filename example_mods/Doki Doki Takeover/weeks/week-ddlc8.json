@@ -1,0 +1,31 @@
+{
+	"storyName": "doki takeover specials",
+	"difficulties": "Hard, Insane",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Epiphany",
+			"bigmonika",
+			[
+				126,
+				213,
+				93
+			]
+		]
+	],
+	"weekName": "ddlc-specials"
+}

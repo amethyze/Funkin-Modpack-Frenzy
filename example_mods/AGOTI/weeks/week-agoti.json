@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Screenplay",
+			"agoti",
+			[
+				186,
+				130,
+				36
+			]
+		],
+		[
+			"Parasite",
+			"agoti",
+			[
+				186,
+				130,
+				36
+			]
+		],
+		[
+			"A.G.O.T.I",
+			"agoti-crazy",
+			[
+				186,
+				130,
+				36
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Agoti",
+	"weekName": "Agoti",
+	"freeplayColor": [
+		186,
+		130,
+		36
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

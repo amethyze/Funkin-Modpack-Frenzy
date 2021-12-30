@@ -1,0 +1,48 @@
+{
+	"storyName": "Eteled",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Dream Of Peace",
+			"eteled1",
+			[
+				95,
+				80,
+				140
+			]
+		],
+		[
+			"Diagraphephobia",
+			"eteled2",
+			[
+				95,
+				80,
+				140
+			]
+		],
+		[
+			"Post Mortal",
+			"austin",
+			[
+				155,
+				20,
+				20
+			]
+		]
+	],
+	"weekName": "eteled"
+}

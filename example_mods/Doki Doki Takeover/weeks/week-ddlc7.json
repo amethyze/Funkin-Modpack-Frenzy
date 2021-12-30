@@ -1,0 +1,66 @@
+{
+	"storyName": "doki takeover specials",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Your Reality",
+			"duet",
+			[
+				206,
+				133,
+				235
+			]
+		],
+		[
+			"Poems n Thorns",
+			"duet",
+			[
+				206,
+				133,
+				235
+			]
+		],
+		[
+			"Dual Demise",
+			"dual-demise",
+			[
+				106,
+				0,
+				153
+			]
+		],
+		[
+			"Monika Is Infinite",
+			"bigmonika",
+			[
+				126,
+				213,
+				93
+			]
+		],
+		[
+			"Festival",
+			"bigmonika",
+			[
+				126,
+				213,
+				93
+			]
+		]
+	],
+	"weekName": "ddlc-specials"
+}

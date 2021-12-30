@@ -1,0 +1,24 @@
+{
+	"songs": [
+		[
+			"focus",
+			"cj",
+			[ 146, 113, 253 ]
+		]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Starlight Mayhem - Tutorial",
+	"weekBefore": "tutorial",
+	"weekName": "StarlightTutorial",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

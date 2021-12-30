@@ -1,0 +1,4 @@
+Changes the receptors' transparency
+
+Value 1: How long will it take
+Value 2: What transparency to use

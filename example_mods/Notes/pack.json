@@ -1,0 +1,6 @@
+{
+	"name": "Note Types",
+	"description": "Adds tons of different notes to the game! This doesn't affect gameplay, it's purely aesthetic.",
+	"restart":false,
+	"color": [100, 100, 100]
+}

@@ -1,0 +1,102 @@
+{
+	"storyName": "Sonic.Exe",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Cycles",
+			"sonicLordX",
+			[
+				0,
+				0,
+				93
+			]
+		],
+		[
+			"Endless",
+			"sonicfun",
+			[
+				0,
+				0,
+				193
+			]
+		],
+		[
+			"Sonic Sunshine",
+			"TDoll",
+			[
+				206,
+				206,
+				0
+			]
+		],
+		[
+			"Faker",
+			"faker",
+			[
+				0,
+				0,
+				133
+			]
+		],
+		[
+			"Black Sun",
+			"exe",
+			[
+				0,
+				0,
+				53
+			]
+		],
+		[
+			"Milk",
+			"sunky",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"Too Fest",
+			"sanic",
+			[
+				0,
+				0,
+				93
+			]
+		],
+		[
+			"Chaos",
+			"fleetway",
+			[
+				226,
+				193,
+				0
+			]
+		],
+		[
+			"Fun Gangs Triple Trouble",
+			"tails",
+			[
+				40,
+				40,
+				40
+			]
+		]
+	],
+	"weekName": "Sonic Exe"
+}

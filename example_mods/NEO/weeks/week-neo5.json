@@ -1,0 +1,43 @@
+{
+	"storyName": "Neo Snow",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week4",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Cocoa Neo",
+			"parents-christmas-neo",
+			[
+				160,
+				209,
+				255
+			]
+		],
+		[
+			"Eggnog Neo",
+			"parents-christmas-neo",
+			[
+				160,
+				209,
+				255
+			]
+		],
+		[
+			"Hallucination Neo",
+			"monster-neo",
+			[
+				160,
+				209,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 5 NEO"
+}

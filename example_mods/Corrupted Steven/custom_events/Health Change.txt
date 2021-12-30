@@ -1,0 +1,5 @@
+Change the health value.
+
+Value 1: What value to set the health as.
+
+(Keep in mind: 2 is max health, 0 is death.)

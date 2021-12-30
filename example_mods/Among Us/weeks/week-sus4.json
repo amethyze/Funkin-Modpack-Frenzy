@@ -1,0 +1,30 @@
+{
+	"storyName": "Vs Impostor Week 4",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Defeat",
+			"black",
+			[
+				60,
+				60,
+				60
+			]
+		]
+	],
+	"weekName": "Impostor Week 4"
+}

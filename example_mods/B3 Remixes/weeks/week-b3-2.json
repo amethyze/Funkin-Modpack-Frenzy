@@ -1,0 +1,39 @@
+{
+	"songs": [
+		[
+			"Spookeez b3",
+			"spookyb3",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"South b3",
+			"spookyb3",
+			[
+				34,
+				51,
+				68
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "B3 Week 2",
+	"weekName": "B3 Week 2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

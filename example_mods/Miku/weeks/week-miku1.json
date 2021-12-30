@@ -1,0 +1,57 @@
+{
+	"songs": [
+		[
+			"Loid",
+			"miku",
+			[
+				66,
+				213,
+				253
+			]
+		],
+		[
+			"Endurance",
+			"miku",
+			[
+				66,
+				213,
+				253
+			]
+		],
+		[
+			"Voca",
+			"miku",
+			[
+				66,
+				213,
+				253
+			]
+		],
+		[
+			"Endless",
+			"miku",
+			[
+				66,
+				213,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Miku the Singer",
+	"weekName": "miku",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

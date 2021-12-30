@@ -1,0 +1,6 @@
+{
+	"name": "Base Game",
+	"description": "These are the game files. Please, do NOT disable this mod. It will break everything if you do so. Your game could even end up bricked if you disable this mod!",
+	"restart":true,
+	"color": [255, 255, 255]
+}

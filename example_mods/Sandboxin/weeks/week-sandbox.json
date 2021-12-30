@@ -1,0 +1,66 @@
+{
+	"songs": [
+		[
+			"Faraday",
+			"human",
+			[
+				155,
+				155,
+				155
+			]
+		],
+		[
+			"Mutilation",
+			"ragdoll",
+			[
+				255,
+				211,
+				115
+			]
+		],
+		[
+			"Dollhouse",
+			"dollhouse-char",
+			[
+				215,
+				171,
+				75
+			]
+		],
+		[
+			"Interaction",
+			"buddy",
+			[
+				155,
+				155,
+				155
+			]
+		],
+		[
+			"Spyware",
+			"bonzi",
+			[
+				146,
+				16,
+				209
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Sandboxin'",
+	"weekName": "Sandboxin'",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

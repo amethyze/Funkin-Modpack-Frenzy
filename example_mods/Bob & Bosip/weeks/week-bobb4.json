@@ -1,0 +1,49 @@
+{
+	"storyName": "Bob and Bosip - Bob's Takeover",
+	"difficulties": "Easy, Normal, Hard, EX",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Copy Cat",
+			"bob",
+			[
+				195,
+				195,
+				195
+			]
+		],
+		[
+			"Jump Out",
+			"bob",
+			[
+				195,
+				195,
+				195
+			]
+		],
+		[
+			"Ronald McDonald Slide",
+			"ron",
+			[
+				175,
+				175,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "bnb-4"
+}

@@ -1,0 +1,58 @@
+{
+	"storyName": "Bob and Bosip - Week in the Background",
+	"difficulties": "Easy, Normal, Hard, EX",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Groovy Brass",
+			"bluskys",
+			[
+				80,
+				80,
+				255
+			]
+		],
+		[
+			"Conscience",
+			"minishoey",
+			[
+				9,
+				255,
+				155
+			]
+		],
+		[
+			"Yap Squad",
+			"jghost",
+			[
+				255,
+				80,
+				80
+			]
+		],
+		[
+			"Intertwined",
+			"ash",
+			[
+				255,
+				0,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "bnb-3"
+}

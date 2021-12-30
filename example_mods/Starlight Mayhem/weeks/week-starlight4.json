@@ -1,0 +1,24 @@
+{
+	"songs": [
+		[
+			"its complicated ruby remix",
+			"ruby",
+			[ 146, 113, 253 ]
+		]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Starlight Mayhem - Tutorial",
+	"weekBefore": "tutorial",
+	"weekName": "StarlightTutorial",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
